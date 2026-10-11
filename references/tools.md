@@ -49,7 +49,8 @@
 | 积分账户 | `query-my-account`（可用/累计/冻结/即将过期积分） |
 | 麦麦商城 | `mall-points-products`、`mall-product-detail`、`mall-create-order`（⚠️ 写操作）、`mall-order-list`、`mall-order-detail` |
 | 积分抽奖 | `query-lottery-info`、`draw-lottery`（⚠️ 消耗积分）、`query-my-prizes` |
-| 主题活动 | `query-party-city`、`query-party-store`、`query-partystore-date`、`query-partystore-session`、`party-order-create`（⚠️ 写操作） |
+| 主题活动 | `query-party-city`、`query-party-store`、`query-party-store-date`、`query-party-store-session`、`party-order-create`（⚠️ 写操作） |
+| 营销与问卷 | `query-promotions`（当前营销活动/优惠）、`query-survey-coupon`（问卷类券） |
 
 ## 三、三个必须记住的坑
 

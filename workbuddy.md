@@ -19,7 +19,7 @@
 
 1. 从 GitHub 抓取官方仓库 `M-China/mcd-developer-innovation-challenge`，
    读取 `README.md`、`activityGuidelines.md`、`CONTEST_DECLARATION.md`、`RANKING.md` 原文；
-2. 抓取 `M-China/mcd-mcp-server`，整理出完整工具清单（33 个）、端点、鉴权、限流；
+2. 抓取 `M-China/mcd-mcp-server`，整理出完整工具清单（35 个）、端点、鉴权、限流；
 3. **更正了流程图里的简化信息**，找出三条关键规则：
    - 排名**只看 GitHub 公开 Star 数**，与功能强弱无关；
    - `CONTEST_DECLARATION.md` 文件名与内容**均不可改动**；
